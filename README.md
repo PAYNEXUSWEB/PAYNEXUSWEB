@@ -39,4 +39,17 @@
 
 <img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/PAYNEXUSWEB"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16"
+<a href="https://github.com/PAYNEXUSWEB"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="mailto:support@paynexus.co.in"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://wa.me/917027220895"><img src="https://img.shields.io/badge/WhatsApp-34d399?style=for-the-badge&logo=whatsapp&logoColor=0d0e16" alt="WhatsApp"/></a>
+<a href="https://paynexus.co.in"><img src="https://img.shields.io/badge/Website-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=0d0e16" alt="Website"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PAYNEXUSWEB&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Building digital India, one project at a time.** 💜
+
+</div>
